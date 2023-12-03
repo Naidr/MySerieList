@@ -1,0 +1,38 @@
+.bodysetting {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    width: auto;
+    height: 84vh;
+    background: #302D2D;
+    color: white;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    width: auto;
+    height: auto;
+    background: #302D2D;
+    color: white;
+}
+
+.user {
+    width: 428px;
+    height: 276px;
+}
+
+.update {
+    background-color: #927F1F;
+    border-color: #927F1F;
+    color: white;
+}
+
+.cancel {
+    background-color: #911F22;
+    border-color: #911F22;
+    color: white;
+}

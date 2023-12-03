@@ -1,0 +1,31 @@
+.container-login {
+  height: 84vh;
+  background: #302D2D;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  width: auto;
+  height: 84vh;
+  background: #302D2D;
+  color: white;
+}
+
+.sing-up-button {
+  background-color:#927F1F;
+  border-color: #927F1F;
+  color: white;
+}
+
+.log-in-button {
+  background-color:#927F1F;
+  border-color: #927F1F;
+  color: white;
+}
+
+.forgot {
+  color: #3870FF;
+}

@@ -1,0 +1,27 @@
+.buttonGroup {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  flex: 1 0 0;
+  width: 90%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.buttonGroup>* {
+  display: flex;
+  padding: 8px 16px;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 0 0;
+  border-radius: 2px;
+  background: #927F1F;
+  border-color: #927F1F;
+  color: #FFF;
+  text-align: center;
+  font-family: Actor;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}

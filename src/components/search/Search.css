@@ -1,0 +1,9 @@
+  /* Estilos para la barra de búsqueda */
+  .search-bar {
+    width: 90%;    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 7%;
+    margin-bottom: 3%;
+  }

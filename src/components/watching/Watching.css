@@ -1,0 +1,21 @@
+.watching {
+    width: 90%;
+    height: 52px;
+    display: flex;
+padding: 12px;
+justify-content: center;
+align-items: center;
+border-radius: 1000px;
+background: #911F22;
+border-color: #911F22;
+}
+
+.start {
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Actor;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
